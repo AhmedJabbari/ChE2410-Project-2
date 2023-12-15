@@ -38,3 +38,17 @@ The aim of performing the bifurcation analysis is to identify the stability and 
 
  
 To the best result, the steady state of methane concentration values was plotted as a function of Q values. The result from the above figure shows that when the value of Q is between -10 and 90, methane concentration has the steady state of 3.3e6. Then, I increase the range of Q value and I found that when Q value is between 1000 and 9000 methane concentration has the same steady state value. 
+
+## Sensitivity Analysis
+### Local parametric sensitivity:
+The objective of performing sensitivity analysis is to evaluate the model's sensitivity to each parameter. Initially, the parameters were tested at 1% perturbation. However, there are no clear results. Therefore, 5% perturbation has been conducted, and we can see from the below figure that W (catalyst weight) parameter slightly diverted from system. This result is an indication that the model is sensitive to the W parameter.
+
+![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/42dead13-57c5-45b8-965c-3e1d9eb97451)
+
+### Golab Sensitivity Analysis:
+
+Golab sensitivity analysis has been conducted and the below figure was generated for step# 3 of the global sensitivity analysis. Moreover, the Our fitted equn is y =  -2.06 kT +  -0.02 v + 2 x+ 0.004 W + -1.96496e-09 Q
+
+![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/b9354d99-c39b-450f-a198-a737e33f5df0)
+
+## Conclusion 
