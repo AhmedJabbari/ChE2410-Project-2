@@ -34,5 +34,7 @@ The aim of performing the bifurcation analysis is to identify the stability and 
 
 ![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/e3ab4fed-5da9-47a1-9bbd-2a23567de67b)
 
+![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/3dab9aa7-b920-4193-a5e6-8da57dda3d5e)
+
  
-To the best result, the steady state of methane concentration values was plotted as a function of Q values. The result from the above figure shows that when the value of Q is between -10 and 90, methane concentration has the steady state of 3.3e6. 
+To the best result, the steady state of methane concentration values was plotted as a function of Q values. The result from the above figure shows that when the value of Q is between -10 and 90, methane concentration has the steady state of 3.3e6. Then, I increase the range of Q value and I found that when Q value is between 1000 and 9000 methane concentration has the same steady state value. 
