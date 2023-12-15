@@ -9,3 +9,5 @@ Below list of ODEs that I will utilize from the paper to perform my analysis:
 ![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/d829569e-1dcf-4ea9-b979-050c4458f9fc)
 
 The values of the parameters that I will analysis from the paper are kT=-0.05 (1/s), v= 1 (m^3/s), x=0.78, W=100 (kg) and Q=50 (J/s). In this analysis I will only concentrate on hydrogen production despite the fact that the paper presented several results and models for several components. The model and experimental data that were found in the paper can be seen below: 
+
+![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/695fccfc-0a80-481a-929c-470937a29164)
