@@ -46,9 +46,11 @@ The objective of performing sensitivity analysis is to evaluate the model's sens
 ![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/42dead13-57c5-45b8-965c-3e1d9eb97451)
 
 ### Golab Sensitivity Analysis:
+Golab sensitivity analysis has been conducted and the below figure was generated for step# 3 of the global sensitivity analysis. Moreover, the Our fitted equn is y =  -2.06 kT +  -0.02 v + 2 x+ 0.004 W + -1.96496e-09 Q. We can see that from the equation Q has the highest coefficient which is an indication that Q is the most sensitive parameter. 
 
-Golab sensitivity analysis has been conducted and the below figure was generated for step# 3 of the global sensitivity analysis. Moreover, the Our fitted equn is y =  -2.06 kT +  -0.02 v + 2 x+ 0.004 W + -1.96496e-09 Q
+![Uploading image.png…]()
 
-![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/b9354d99-c39b-450f-a198-a737e33f5df0)
 
 ## Conclusion 
+
+After completing the analysis, we can see that the minor to moderate discrepancies between the parameters from the model and the experiment may be due to the fact the experiment was conducted on Packed Bed Reactor while the model in the paper was developed on CSTR reactor. As for the Q parameter it could be a typing mistake. The bifurcation analysis for Q parameter revealed that when the value of Q is between -10 and 90, methane concentration has the steady state of 3.3e6. Moreover, the local parametric sensitivity indicates that the model is sensitive to the W parameter while global sensitivity analysis shows that Q is the most sensitive parameter to the model. Finaly, the Local initial condition sensitivity did not show any clear indication. 
