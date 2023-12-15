@@ -48,7 +48,8 @@ The objective of performing sensitivity analysis is to evaluate the model's sens
 ### Golab Sensitivity Analysis:
 Golab sensitivity analysis has been conducted and the below figure was generated for step# 3 of the global sensitivity analysis. Moreover, the Our fitted equn is y =  -2.06 kT +  -0.02 v + 2 x+ 0.004 W + -1.96496e-09 Q. We can see that from the equation Q has the highest coefficient which is an indication that Q is the most sensitive parameter. 
 
-![Uploading image.png…]()
+![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/b12c2713-2cea-449f-bbe1-a726e9bd7ecd)
+
 
 
 ## Conclusion 
