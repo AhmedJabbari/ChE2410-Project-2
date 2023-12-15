@@ -6,7 +6,7 @@ The objective of this project is to repeat and enhance the model developed in th
 The motivation for choosing this subject is directly related to the huge ongoing effort in industry to produce green hydrogen and minimize greenhouse gas emission to achieve the world climate goals. This paper presents a study of hydrogen production utilizing the thermo-catalytic methane decomposition (TCMD) process:
 Below list of ODEs that I will utilize from the paper to perform my analysis: 
 
-![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/94f03d9f-b546-4d29-a480-d5af06912ae3)
+![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/b8e3f8b1-a025-44e1-ae73-c4c635124f54)
 
 
 The values of the parameters that I will analysis from the paper are kT=-0.05 (1/s), v= 1 (m^3/s), x=0.78, W=100 (kg) and Q=50 (J/s). In this analysis I will only concentrate on hydrogen production despite the fact that the paper presented several results and models for several components. The model and experimental data that were found in the paper can be seen below: 
