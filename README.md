@@ -26,3 +26,4 @@ Then, I utilized curve fit function from Python to fit the model. As shown in th
 
  
 The parameters after fitting and optimization are kT=-0.011 (1/s), v= 0.65 (m^3/s), x=0.01, W=98.9 (kg) and Q=2.03e+07 (J/s). After comparing the optimized parameters after fitting with parameters from paper we can clearly see that there is minor to moderate discrepancies for kT, v, x and W parameters and there is huge discrepancy for Q parameter. These minor to moderate discrepancies may be due to the fact the experiment was conducted on Packed Bed Reactor while the model in the paper was developed on CSTR reactor. As for the Q parameter it could be a typing mistake. Therefore, there is an area for improvement to narrow down to more accurate values.
+
