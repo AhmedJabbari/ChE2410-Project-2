@@ -28,3 +28,11 @@ Then, I utilized curve fit function from Python to fit the model. As shown in th
  
 The parameters after fitting and optimization are kT=-0.011 (1/s), v= 0.65 (m^3/s), x=0.01, W=98.9 (kg) and Q=2.03e+07 (J/s). After comparing the optimized parameters after fitting with parameters from paper we can clearly see that there is minor to moderate discrepancies for kT, v, x and W parameters and there is huge discrepancy for Q parameter. These minor to moderate discrepancies may be due to the fact the experiment was conducted on Packed Bed Reactor while the model in the paper was developed on CSTR reactor. As for the Q parameter it could be a typing mistake. Therefore, there is an area for improvement to narrow down to more accurate values.
 
+## Bifurcation Analysis
+
+The aim of performing the bifurcation analysis is to identify the stability and steady state behavior of the model. In this analysis, I selected Q (External heat supply) parameter for bifurcation, because the process reaction is an endothermic reaction where the external heat supply will play a critical role to achieve full conversion of methane. In addition to that external heat supply to this reaction to produce hydrogen is considered as one of the main contributors to the high operating cost for this process (TCMD). 
+
+![image](https://github.com/AhmedJabbari/ChE2410-Project-2/assets/148829971/e3ab4fed-5da9-47a1-9bbd-2a23567de67b)
+
+ 
+To the best result, the steady state of methane concentration values was plotted as a function of Q values. The result from the above figure shows that when the value of Q is between -10 and 90, methane concentration has the steady state of 3.3e6. 
